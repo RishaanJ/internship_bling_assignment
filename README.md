@@ -1,8 +1,15 @@
-# React + Vite
+# Rishaan Internship Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Assignment Information
+Review the attached `chat-app.png` and create a responsive design based on the reference. Ensure the app displays dummy chat data and renders corresponding messages when a chat is clicked. Implement features for sending messages and searching through chats.
 
-Currently, two official plugins are available:
+## My Solution
+All functionality has been implemented.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Fully made in React.js
+
+Styled with CSS
+
+`/src/components` -> All the components for organization (i.e chat message, friend list)
+
+`src/App.jsx` -> Main app
